@@ -88,7 +88,7 @@ Retail businesses often struggle to:
 
 ---
 
-👩‍💻 Author
+## 👩‍💻 Author
 Prity Jaiswal
 
 Aspiring Data Analyst passionate about transforming data into insights.
